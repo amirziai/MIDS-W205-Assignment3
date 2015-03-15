@@ -1,7 +1,7 @@
 # MIDS-W205-Assignment3
 Storing, Retrieving, and Analyzing Social Media Data Using MongoDB
 
-1- S3 bucket:
+1- S3 bucket is here:
 s3://amirziai-mids-w205-assignment3/
 
 2- iPython notebook containing the code:
